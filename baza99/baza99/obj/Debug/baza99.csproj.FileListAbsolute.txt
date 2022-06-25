@@ -1,0 +1,32 @@
+C:\Users\User\source\repos\baza99\baza99\bin\Debug\Database1.mdf
+C:\Users\User\source\repos\baza99\baza99\bin\Debug\Database1_log.ldf
+C:\Users\User\source\repos\baza99\baza99\bin\Debug\baza99.exe.config
+C:\Users\User\source\repos\baza99\baza99\bin\Debug\baza99.exe
+C:\Users\User\source\repos\baza99\baza99\bin\Debug\baza99.pdb
+C:\Users\User\source\repos\baza99\baza99\obj\Debug\baza99.csprojAssemblyReference.cache
+C:\Users\User\source\repos\baza99\baza99\obj\Debug\baza99.Form1.resources
+C:\Users\User\source\repos\baza99\baza99\obj\Debug\baza99.Properties.Resources.resources
+C:\Users\User\source\repos\baza99\baza99\obj\Debug\baza99.csproj.GenerateResource.cache
+C:\Users\User\source\repos\baza99\baza99\obj\Debug\baza99.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\baza99\baza99\obj\Debug\baza99.exe
+C:\Users\User\source\repos\baza99\baza99\obj\Debug\baza99.pdb
+C:\Users\User\source\repos\baza99\baza99\obj\Debug\baza99.Form2.resources
+C:\Users\User\Desktop\Для Шишкова\baza99\baza99\bin\Debug\Database1.mdf
+C:\Users\User\Desktop\Для Шишкова\baza99\baza99\bin\Debug\Database1_log.ldf
+C:\Users\User\Desktop\Для Шишкова\baza99\baza99\bin\Debug\baza99.exe.config
+C:\Users\User\Desktop\Для Шишкова\baza99\baza99\bin\Debug\baza99.exe
+C:\Users\User\Desktop\Для Шишкова\baza99\baza99\bin\Debug\baza99.pdb
+C:\Users\User\Desktop\Для Шишкова\baza99\baza99\obj\Debug\baza99.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Для Шишкова\baza99\baza99\obj\Debug\baza99.Form1.resources
+C:\Users\User\Desktop\Для Шишкова\baza99\baza99\obj\Debug\baza99.Form2.resources
+C:\Users\User\Desktop\Для Шишкова\baza99\baza99\obj\Debug\baza99.Properties.Resources.resources
+C:\Users\User\Desktop\Для Шишкова\baza99\baza99\obj\Debug\baza99.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Для Шишкова\baza99\baza99\obj\Debug\baza99.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Для Шишкова\baza99\baza99\obj\Debug\baza99.exe
+C:\Users\User\Desktop\Для Шишкова\baza99\baza99\obj\Debug\baza99.pdb
+C:\Users\Максим\Desktop\Работа и учёба\baza99\baza99\obj\Debug\baza99.csproj.AssemblyReference.cache
+C:\Users\Максим\Desktop\Работа и учёба\baza99\baza99\obj\Debug\baza99.Form1.resources
+C:\Users\Максим\Desktop\Работа и учёба\baza99\baza99\obj\Debug\baza99.Form2.resources
+C:\Users\Максим\Desktop\Работа и учёба\baza99\baza99\obj\Debug\baza99.csproj.GenerateResource.cache
+C:\Users\Максим\Desktop\Работа и учёба\baza99\baza99\obj\Debug\baza99.exe
+C:\Users\Максим\Desktop\Работа и учёба\baza99\baza99\obj\Debug\baza99.pdb

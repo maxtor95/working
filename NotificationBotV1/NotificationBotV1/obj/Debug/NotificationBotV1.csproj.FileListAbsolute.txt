@@ -1,0 +1,42 @@
+C:\Users\haustov\Desktop\Projects\NotificationBotV1\NotificationBotV1\obj\Debug\MainWindow.g.cs
+C:\Users\haustov\Desktop\Projects\NotificationBotV1\NotificationBotV1\obj\Debug\App.g.cs
+C:\Users\haustov\Desktop\Projects\NotificationBotV1\NotificationBotV1\obj\Debug\NotificationBotV1_MarkupCompile.cache
+C:\Users\haustov\Desktop\Projects\NotificationBotV1\NotificationBotV1\obj\Debug\NotificationBotV1_MarkupCompile.lref
+C:\Users\haustov\Desktop\Projects\NotificationBotV1\NotificationBotV1\bin\Debug\NotificationBotV1.exe.config
+C:\Users\haustov\Desktop\Projects\NotificationBotV1\NotificationBotV1\bin\Debug\NotificationBotV1.exe
+C:\Users\haustov\Desktop\Projects\NotificationBotV1\NotificationBotV1\bin\Debug\NotificationBotV1.pdb
+C:\Users\haustov\Desktop\Projects\NotificationBotV1\NotificationBotV1\obj\Debug\MainWindow.baml
+C:\Users\haustov\Desktop\Projects\NotificationBotV1\NotificationBotV1\obj\Debug\NotificationBotV1.g.resources
+C:\Users\haustov\Desktop\Projects\NotificationBotV1\NotificationBotV1\obj\Debug\NotificationBotV1.Properties.Resources.resources
+C:\Users\haustov\Desktop\Projects\NotificationBotV1\NotificationBotV1\obj\Debug\NotificationBotV1.csproj.GenerateResource.cache
+C:\Users\haustov\Desktop\Projects\NotificationBotV1\NotificationBotV1\obj\Debug\NotificationBotV1.csproj.CoreCompileInputs.cache
+C:\Users\haustov\Desktop\Projects\NotificationBotV1\NotificationBotV1\obj\Debug\NotificationBotV1.exe
+C:\Users\haustov\Desktop\Projects\NotificationBotV1\NotificationBotV1\obj\Debug\NotificationBotV1.pdb
+C:\Users\haustov\Desktop\Projects\NotificationBotV1\NotificationBotV1\bin\Debug\NotificationBotV1.exe.manifest
+C:\Users\haustov\Desktop\Projects\NotificationBotV1\NotificationBotV1\bin\Debug\NotificationBotV1.application
+C:\Users\haustov\Desktop\Projects\NotificationBotV1\NotificationBotV1\obj\Debug\NotificationBotV1.exe.manifest
+C:\Users\haustov\Desktop\Projects\NotificationBotV1\NotificationBotV1\obj\Debug\NotificationBotV1.application
+C:\Users\haustov\Desktop\Projects\NotificationBotV1\NotificationBotV1\obj\Debug\Window2.g.cs
+C:\Users\haustov\Desktop\Projects\NotificationBotV1\NotificationBotV1\obj\Debug\Window2.baml
+C:\Users\haustov\Desktop\Projects\NotificationBotV1\NotificationBotV1\obj\Debug\NotificationBotV1.csprojAssemblyReference.cache
+C:\Users\Максим\Desktop\Работа и учёба\NotificationBotV1\NotificationBotV1\bin\Debug\NotificationBotV1.exe.config
+C:\Users\Максим\Desktop\Работа и учёба\NotificationBotV1\NotificationBotV1\bin\Debug\NotificationBotV1.exe.manifest
+C:\Users\Максим\Desktop\Работа и учёба\NotificationBotV1\NotificationBotV1\bin\Debug\NotificationBotV1.application
+C:\Users\Максим\Desktop\Работа и учёба\NotificationBotV1\NotificationBotV1\bin\Debug\NotificationBotV1.exe
+C:\Users\Максим\Desktop\Работа и учёба\NotificationBotV1\NotificationBotV1\bin\Debug\NotificationBotV1.pdb
+C:\Users\Максим\Desktop\Работа и учёба\NotificationBotV1\NotificationBotV1\obj\Debug\NotificationBotV1.csproj.AssemblyReference.cache
+C:\Users\Максим\Desktop\Работа и учёба\NotificationBotV1\NotificationBotV1\obj\Debug\MainWindow.g.cs
+C:\Users\Максим\Desktop\Работа и учёба\NotificationBotV1\NotificationBotV1\obj\Debug\Window2.g.cs
+C:\Users\Максим\Desktop\Работа и учёба\NotificationBotV1\NotificationBotV1\obj\Debug\App.g.cs
+C:\Users\Максим\Desktop\Работа и учёба\NotificationBotV1\NotificationBotV1\obj\Debug\NotificationBotV1_MarkupCompile.cache
+C:\Users\Максим\Desktop\Работа и учёба\NotificationBotV1\NotificationBotV1\obj\Debug\NotificationBotV1_MarkupCompile.lref
+C:\Users\Максим\Desktop\Работа и учёба\NotificationBotV1\NotificationBotV1\obj\Debug\MainWindow.baml
+C:\Users\Максим\Desktop\Работа и учёба\NotificationBotV1\NotificationBotV1\obj\Debug\Window2.baml
+C:\Users\Максим\Desktop\Работа и учёба\NotificationBotV1\NotificationBotV1\obj\Debug\NotificationBotV1.g.resources
+C:\Users\Максим\Desktop\Работа и учёба\NotificationBotV1\NotificationBotV1\obj\Debug\NotificationBotV1.Properties.Resources.resources
+C:\Users\Максим\Desktop\Работа и учёба\NotificationBotV1\NotificationBotV1\obj\Debug\NotificationBotV1.csproj.GenerateResource.cache
+C:\Users\Максим\Desktop\Работа и учёба\NotificationBotV1\NotificationBotV1\obj\Debug\NotificationBotV1.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\Работа и учёба\NotificationBotV1\NotificationBotV1\obj\Debug\NotificationBotV1.exe.manifest
+C:\Users\Максим\Desktop\Работа и учёба\NotificationBotV1\NotificationBotV1\obj\Debug\NotificationBotV1.application
+C:\Users\Максим\Desktop\Работа и учёба\NotificationBotV1\NotificationBotV1\obj\Debug\NotificationBotV1.exe
+C:\Users\Максим\Desktop\Работа и учёба\NotificationBotV1\NotificationBotV1\obj\Debug\NotificationBotV1.pdb

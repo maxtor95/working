@@ -1,0 +1,26 @@
+﻿<Window x:Class="HomeWork_11.Forms.WindowConsult"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HomeWork_11.Forms"
+        mc:Ignorable="d"
+        Title="WindowConsult" Height="450" Width="800" Loaded="Window_Loaded">
+    <Grid>
+        <DataGrid x:Name="dglistbankconsult" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Margin="0,200,0,0" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="dgtcsurname" Binding="{Binding Path=SurName}" Header="Фамилия" Width="*"/>
+                <DataGridTextColumn x:Name="dgtcname" Binding="{Binding Path=Name}" Header="Имя" Width="*"/>
+                <DataGridTextColumn x:Name="dgtclastname" Binding="{Binding Path=LastName}" Header="Отчество" Width="*"/>
+                <DataGridTextColumn Binding="{Binding Path=Number}" Header="Номер телефона" Width="*"/>
+                <DataGridTextColumn x:Name="dgtcpassport" Binding="{Binding Path=Passport}" Header="Паспорт" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <TextBox Text="{Binding SelectedItem.SurName,ElementName=dglistbankconsult}" x:Name="tbsurname" Foreground="DarkGray" HorizontalAlignment="Left" Height="23" Margin="8,13,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="269" />
+        <TextBox x:Name="tbname" Foreground="DarkGray" HorizontalAlignment="Left" Height="23" Margin="8,44,0,0" TextWrapping="Wrap" Text="{Binding SelectedItem.Name,ElementName=dglistbankconsult}" VerticalAlignment="Top" Width="269"/>
+        <TextBox x:Name="tblastname" Foreground="DarkGray" HorizontalAlignment="Left" Height="23" Margin="8,75,0,0" TextWrapping="Wrap" Text="{Binding SelectedItem.LastName,ElementName=dglistbankconsult}" VerticalAlignment="Top" Width="269"/>
+        <TextBox x:Name="tbnumber" Foreground="DarkGray" HorizontalAlignment="Left" Height="23" Margin="8,107,0,0" TextWrapping="Wrap" Text="{Binding SelectedItem.Number,ElementName=dglistbankconsult}" VerticalAlignment="Top" Width="269"/>
+        <TextBox x:Name="tbpasport" Foreground="DarkGray" HorizontalAlignment="Left" Height="23" Margin="8,140,0,0" TextWrapping="Wrap" Text="{Binding SelectedItem.Passport,ElementName=dglistbankconsult}" VerticalAlignment="Top" Width="269"/>
+        <Button x:Name="btsave" Content="Сохранить" HorizontalAlignment="Left" Margin="302,13,0,0" VerticalAlignment="Top" Width="113" Height="37" Click="btsave_Click"/>
+    </Grid>
+</Window>
